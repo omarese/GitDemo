@@ -1,4 +1,4 @@
-# OmarStore
+# OmarStore 
 
 Welkom bij **OmarStore**! Dit is een verzamelplaats voor leuke en interactieve spellen, waaronder **Galgje**, **Eveonofoneven**, een **Dagboek**-applicatie en een **Gokspel**. Dit project is ontwikkeld met Python en biedt een plezierige manier om je tijd door te brengen.
 
