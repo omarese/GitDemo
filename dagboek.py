@@ -1,3 +1,5 @@
+
+
 def dagboek():
     while True:
 
