@@ -10,7 +10,7 @@ def woord_lezer(file):
     return woorden
 
 def woord_kiezer(woorden):
-    # functie om een willekeurig woord uit de lijst te kiezen
+    # functie om een woord uit de lijst te kiezen
     return random.choice(woorden)
 
 def geheim_woord(woord, geraden_letters):
