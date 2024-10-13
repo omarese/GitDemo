@@ -1,4 +1,3 @@
-
 print("Welkom Bij OmarStore")
 print("Kies Een App:")
 print("1. GokSpel")
